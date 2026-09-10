@@ -1,0 +1,1 @@
+Retrieval rankings are not generated because no trained audio/text embeddings or metrics_task4.json file exists yet. The generated_description_examples.txt file contains real text inputs from the processed cache for report illustration.

@@ -1,0 +1,53 @@
+Generated text examples from tags_and_descriptions.json
+These are input-description examples, not retrieval rankings.
+
+Song 2
+Mood tags: sad, calm
+Genre tags: classical, ambient, metal, folk
+Description: A sad and calm classical track with low energy and negative mood.
+
+Song 3
+Mood tags: sad, calm
+Genre tags: classical, ambient, metal, folk
+Description: A sad and calm classical track with low energy and negative mood.
+
+Song 4
+Mood tags: happy, energetic
+Genre tags: electronic, rock, pop, jazz
+Description: A happy and energetic electronic track with high energy and positive mood.
+
+Song 5
+Mood tags: angry, tense
+Genre tags: electronic, rock, metal, folk
+Description: A angry and tense electronic track with high energy and negative mood.
+
+Song 7
+Mood tags: happy, energetic
+Genre tags: electronic, rock, pop, jazz
+Description: A happy and energetic electronic track with high energy and positive mood.
+
+Song 8
+Mood tags: sad, calm
+Genre tags: classical, ambient, metal, folk
+Description: A sad and calm classical track with low energy and negative mood.
+
+Song 10
+Mood tags: sad, calm
+Genre tags: classical, ambient, metal, folk
+Description: A sad and calm classical track with low energy and negative mood.
+
+Song 12
+Mood tags: happy, energetic
+Genre tags: electronic, rock, pop, jazz
+Description: A happy and energetic electronic track with high energy and positive mood.
+
+Song 13
+Mood tags: sad, calm
+Genre tags: classical, ambient, metal, folk
+Description: A sad and calm classical track with low energy and negative mood.
+
+Song 17
+Mood tags: angry, tense
+Genre tags: electronic, rock, metal, folk
+Description: A angry and tense electronic track with high energy and negative mood.
+
